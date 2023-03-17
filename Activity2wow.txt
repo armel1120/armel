@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title>Activity 2</title>
+	</head>
+	<body>
+	<table border="1">
+		<ol>
+			<li>Appetizer</li>
+		<tr>
+		</ol>
+		<ul type="square">
+			<li>Orange cake</li>
+			<li>Apple cake</li>
+			<li>Banana cake</li>
+			<li>Ice cream cake</li>
+		</ul>
+	<dt><ol type="1" start="2"></dt>
+		<li>Bread</li>
+	</ol>
+	</tr>
+	<ul type="disc">
+		<li>Green Bread</li>
+		<li>Red Bread</li>
+		<li>Onion Bread</li>
+		<li>Garlic Bread</li>
+	</ul>
+	<dt><ol type="2" start="3"></dt>
+		<li>Drinks</li>
+	</ol>
+	<ul type="circle">
+		<li>Wine</li>
+		<li>Beer</li>
+		<li>Espero</li>
+		<li>Coke</li>
+	</ul>
+	<ol type="3" start="4">
+		<li>Pizza</li>
+	</ol>
+	<ul type="square">
+		<li>Orange</li>
+		<li>Ham & Cheeze</li>
+	</ul>
+	</table>
+	</body>
